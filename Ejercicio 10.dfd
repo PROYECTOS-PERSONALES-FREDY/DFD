@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+15
+'Primer Cateto'
+5
+1
+1
+a
+4
+1
+16
+'Segundo Cateto'
+5
+1
+1
+b
+6
+1
+1
+c
+15
+sqrt(a^2 + b^2)
+4
+1
+23
+'la hipotenusa es...',c
+1

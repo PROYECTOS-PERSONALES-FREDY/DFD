@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+115
+'Teniendo en cuenta que Pedro produce 2/3 de lo que Produce Juan,¿Cuántos litros de aceite se produjeron en total?'
+4
+1
+45
+'Ingrese produccion total entre Juan y Pedro'
+5
+1
+1
+a
+6
+2
+1
+b
+7
+(a*1)/3
+1
+c
+7
+(a*2)/3
+4
+1
+43
+'Juan produjo...',b,'  Predro produjo...',c
+1

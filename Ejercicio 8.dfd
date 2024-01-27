@@ -1,0 +1,53 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+35
+'Ingrese parte entera del numero 1'
+5
+1
+1
+a
+4
+1
+47
+'Ingrese parte imaginaria del numero 1 (sin i)'
+5
+1
+1
+b
+4
+1
+35
+'Ingrese parte entera del numero 2'
+5
+1
+1
+c
+4
+1
+47
+'Ingrese parte imaginaria del numero 2 (sin i)'
+5
+1
+1
+d
+6
+2
+1
+p
+3
+a+c
+1
+n
+3
+b+d
+4
+1
+33
+'El resultado es...', p,'+',n,'i'
+1

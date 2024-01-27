@@ -1,0 +1,71 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+31
+'Ingrese nombre del estudiante'
+6
+1
+6
+nombre
+2
+''
+5
+1
+6
+nombre
+4
+1
+21
+'Digite primera nota'
+5
+1
+1
+b
+4
+1
+21
+'Digite segunda nota'
+5
+1
+1
+c
+4
+1
+21
+'Digite Tercera nota'
+5
+1
+1
+d
+4
+1
+20
+'Digite Cuarta nota'
+5
+1
+1
+e
+4
+1
+20
+'Digite Quinta nota'
+5
+1
+1
+f
+6
+1
+1
+p
+13
+(b+c+d+e+f)/5
+4
+1
+21
+'Su numero es...' , p
+1

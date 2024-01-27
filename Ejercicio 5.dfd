@@ -1,0 +1,37 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+18
+'Asigne valor a A'
+5
+1
+1
+a
+4
+1
+18
+'Asigne valor a B'
+5
+1
+1
+b
+6
+2
+1
+c
+7
+(a*b)/a
+1
+d
+7
+(a*b)/b
+4
+1
+40
+'Las Variables son  ' , 'A:',c,'  B:',d 
+1

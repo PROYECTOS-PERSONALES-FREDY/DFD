@@ -1,0 +1,41 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+28
+'IIngrese largo (en metros)'
+5
+1
+1
+a
+4
+1
+30
+'escribir el ancho(en metros)'
+5
+1
+1
+b
+4
+1
+46
+'escribir el altura del trozo(en centimetros)'
+5
+1
+1
+c
+6
+1
+1
+p
+11
+a*b*(c/100)
+4
+1
+62
+'El volumen de su trozo de metal es de...',P,' Metros Cubicos'
+1
